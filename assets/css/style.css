@@ -1,0 +1,26 @@
+#main-title{
+color: #ffffff;
+background: #4aaaa5;
+height: 50px;
+width: 200px;
+text-align: center;
+
+}
+
+#header{
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+}
+
+#body-title{
+
+}
+
+#main-body{
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+}
+
+#footer{
+    background-color: #666666;
+}
