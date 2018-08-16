@@ -44,6 +44,7 @@
     float: center;
     line-height: 20pt;
     margin: 0 auto;
+    overflow: auto;
 }
 
 body{
@@ -67,19 +68,23 @@ body{
 }
 
 .portfolio-image{
-    float: left;
+    /* float: left; */
+    height: 380px ;
+    width: 380px ;
 }
 
 .image-container{
-    
+    float: left;
     position: relative;
     text-align: center;
     color: white;
+    width: 400px;
+    
 
 }
 .image-label{
     position: absolute;
-    width: 33%;
+    width: 360px;
     background: #4aaaa5;
     padding: 10px;
     top: 80%;
