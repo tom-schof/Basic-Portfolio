@@ -71,8 +71,8 @@ body{
 
 .portfolio-image{
     /* float: left; */
-    height: 380px ;
-    width: 380px ;
+    width:380px;
+    height:250px;
 }
 
 .image-container{
