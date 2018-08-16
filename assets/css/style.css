@@ -49,6 +49,7 @@
 }
 
 body{
+    background-image: url("../images/paisley.png");
     margin: auto;
     background-color: #dddddd;
     font-family: Arial, Helvetica, sans-serif;
